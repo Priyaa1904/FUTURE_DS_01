@@ -1,6 +1,6 @@
 # 📊 RetailMax Sales Performance Analytics Dashboard
 
-An end-to-end Retail Business Intelligence project developed, focused on transforming raw retail transaction data into actionable business insights through **Python-based Exploratory Data Analysis (EDA)** and **interactive Power BI dashboards**.
+An end-to-end Retail Business Intelligence project developed during my Data Science & Analytics Internship at Future Interns, focused on transforming raw retail transaction data into actionable business insights through **Python-based Exploratory Data Analysis (EDA)** and **interactive Power BI dashboards**.
 
 The project analyzes 15,000 retail transactions across multiple product categories, customer segments, regions, and sales channels to identify revenue drivers, profitability trends, customer behavior patterns, and operational performance metrics.
 
@@ -68,9 +68,10 @@ Evaluates state-wise revenue, regional profitability, customer segments, return 
 
 ## 👤 Author
 
-**Aditya Pandey**
+Priya Pandey
 B.Tech CSE (Data Science & Artificial Intelligence)
+Data Science & Analytics Intern
 
-🔗 LinkedIn: https://www.linkedin.com/in/aditya-pandey-57231335a
+🔗 LinkedIn: https://www.linkedin.com/in/priya-pandey-399596203
 
 If you found this project useful, feel free to ⭐ the repository.
